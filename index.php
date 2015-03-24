@@ -16,118 +16,56 @@
 ?>
 	<section class="right block">
 		<div class="container">
-			<div class="fifth">
-				<div class="image"><img src="http://placehold.it/180x180" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="fifth">
-				<div class="image"><img src="http://placehold.it/180x180" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="fifth">
-				<div class="image"><img src="http://placehold.it/180x180" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="fifth">
-				<div class="image"><img src="http://placehold.it/180x180" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="fifth">
-				<div class="image"><img src="http://placehold.it/180x180" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
+			<div class="toggle block">
+				<h1>Testing</h1>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus.</p>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+				<ul>
+					<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+					<li>Nulla vitae elit libero, a pharetra augue.</li>
+					<li>Aenean lacinia bibendum nulla sed consectetur.</li>
+					<li>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</li>
+				</ul>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+				<blockquote>
+					Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.
+				</blockquote>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+			</div><!--/block-->
 		</div><!--/container-->
 	</section>
 	<section class="right block">
 		<div class="container">
-			<div class="quarter">
-				<div class="image"><img src="http://placehold.it/225x225" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="quarter">
-				<div class="image"><img src="http://placehold.it/225x225" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="quarter">
-				<div class="image"><img src="http://placehold.it/225x225" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="quarter">
-				<div class="image"><img src="http://placehold.it/225x225" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
+			<div class="toggle block">
+				<h1>Testing</h1>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus.</p>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+				<ul>
+					<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+					<li>Nulla vitae elit libero, a pharetra augue.</li>
+					<li>Aenean lacinia bibendum nulla sed consectetur.</li>
+					<li>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</li>
+				</ul>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+				<blockquote>
+					Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.
+				</blockquote>
+				<p>Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod.</p>
+				<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum.</p>
+				<p>Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Curabitur blandit tempus porttitor.</p>
+			</div><!--/block-->
 		</div><!--/container-->
-	</section><!--/block-->
-	<section class="inline_block block">
-		<div class="container">
-			<div class="third">
-				<div class="image"><img src="http://placehold.it/270x270" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="third">
-				<div class="image"><img src="http://placehold.it/270x270" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="third">
-				<div class="image"><img src="http://placehold.it/270x270" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-		</div><!--/container-->
-	</section><!--/block-->
-	<section class="left block">
-		<div class="container">
-			<div class="half">
-				<div class="image"><img src="http://placehold.it/450x450" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-			<div class="half">
-				<div class="image"><img src="http://placehold.it/450x450" /></div><!--/image-->
-				<div class="text">
-					<h3>Text Placeholder</h3>
-					<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				</div><!--/text-->
-			</div><!--/third-->
-		</div><!--/container-->
-	</section><!--/block-->
+	</section>
 <?php
 	include("includes/footer.php");
 ?>

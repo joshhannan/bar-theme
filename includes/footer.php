@@ -1,16 +1,16 @@
 <?php
 	// FOOTER
 ?>
-		<footer class="left block">
+		<footer class="block">
 			<div class="container">
-				<div class="two_thirds">
+				<div class="left two_thirds">
 					<div class="image"><img src="http://placehold.it/630x630" /></div><!--/image-->
 					<div class="text">
 						<h3>Text Placeholder</h3>
 						<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 					</div><!--/text-->
 				</div><!--/two-thirds-->
-				<div class="third">
+				<div class="right third">
 					<div class="image"><img src="http://placehold.it/270x270" /></div><!--/image-->
 					<div class="text">
 						<h3>Text Placeholder</h3>
