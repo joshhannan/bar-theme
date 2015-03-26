@@ -41,7 +41,7 @@ body { font-size: 16px; line-height: 1em; font-family: $text; color: $body_text;
 	p { @include font( 1em, 1.25em, $os, $osb, $osi, $osib ); margin: 0 0 1em; }
 	ul { list-style: disc outside none; margin: 0 0 0 15px; }
 	ul li { @include font( 1em, 1.25em, $os, $osb, $osi, $osib ); margin: 0 0 1em; }
-	ul li ul  { margin: 0 0 0 25px; }
+	ul li ul  { margin: 15px 0 0 15px; }
 	a { color: $brand; &:hover, &:active { color: $body_text; } }
 	.button, a.button { color: $white; margin: 0 0 1em; }
 	.button, a.button { &.right { @include bp(max-640) { float: none; display: block; margin: 0 auto; } } }
@@ -115,6 +115,12 @@ body { font-size: 16px; line-height: 1em; font-family: $text; color: $body_text;
 .mobile { display: block !important; @include bp(480) { display: none !important; } }
 .tablet { display: none !important; @include bp(480) { display: block !important; } @include bp(768) { display: none !important; } }
 .desktop { display: none !important; @include bp(768) { display: block !important; } }
+/*===========================================================================================
+	SECTION CLASSES
+===========================================================================================*/
+section {
+	&.spacing { padding: 25px 0; }
+}
 /*===========================================================================================
 	CONTACT FORM
 ===========================================================================================*/

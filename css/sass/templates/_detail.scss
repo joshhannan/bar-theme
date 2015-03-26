@@ -1,4 +1,6 @@
 /*===========================================================================================
-	FOOTER
+	DETAIL
 ===========================================================================================*/
-footer { background: $light_black; min-height: 50px; padding: 15px 0; color: $white; }
+.detail {
+	.links { border-top: 1px solid $light_black; padding: 15px 0 0; }
+}

@@ -4,18 +4,9 @@
 		<footer class="block">
 			<div class="container">
 				<div class="left two_thirds">
-					<div class="image"><img src="http://placehold.it/630x630" /></div><!--/image-->
-					<div class="text">
-						<h3>Text Placeholder</h3>
-						<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-					</div><!--/text-->
+					<p>&copy; <?php echo date('2015'); ?>.  All Rights Reserved.  Website Design and Development by AYC Media</p>
 				</div><!--/two-thirds-->
 				<div class="right third">
-					<div class="image"><img src="http://placehold.it/270x270" /></div><!--/image-->
-					<div class="text">
-						<h3>Text Placeholder</h3>
-						<p>Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-					</div><!--/text-->
 				</div><!--/third-->
 			</div><!--/container-->
 		</footer>

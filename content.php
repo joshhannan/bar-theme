@@ -3,18 +3,18 @@
 
 	// page vars
 	$page_meta = array(
-		"title" => "Home",
+		"title" => "Content",
 		"keywords" => "",
 		"description" => ""
 	);
 	$body_class = array(
-		"page" => "pg_home",
-		"site_section" => "home",
+		"page" => "pg_content",
+		"site_section" => "content",
 		"layout" => ""
 	);
 	$slides = array(
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			'image' => 'http://placehold.it/1200x300',
 			'title' => 'First Title',
 			'subtitle' => 'A Very Long and Silly Subtitle That Should Break the Theme',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
@@ -22,7 +22,7 @@
 			'link' => 'Learn More'
 		),
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			'image' => 'http://placehold.it/1200x300',
 			'title' => 'Second Title',
 			'subtitle' => 'Another Subtitle',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
@@ -30,7 +30,7 @@
 			'link' => 'Read More'
 		),
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			'image' => 'http://placehold.it/1200x300',
 			'title' => 'Third Title',
 			'subtitle' => 'Yet Another Subtitle',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
