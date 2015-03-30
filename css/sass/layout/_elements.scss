@@ -2,7 +2,7 @@
 	LAYOUT
 ===========================================================================================*/
 * { @include box-sizing($box-model: border-box); -webkit-font-smoothing: antialiased; }
-body { font-size: 16px; line-height: 1em; font-family: $text; color: $body_text; }
+body { font-size: 16px; line-height: 1em; font-family: $text; color: $body_text; background: $light_gray; }
 .chromeframe { text-align: center; padding: 10px 0; }
 .container { max-width: 1200px; margin: 0 auto; width: 100%; }
 .content {
@@ -69,6 +69,7 @@ body { font-size: 16px; line-height: 1em; font-family: $text; color: $body_text;
 	border: none;
 	@include inline_block;
 	@include vendorize( transition, all 0.17s ease-in-out);
+	&:hover { background: $hover_color; }
 }
 .gray_bg { background: #f5f5f5; }
 .dark_bg { background: $light_black; color: $white; }

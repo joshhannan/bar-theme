@@ -26,10 +26,10 @@
 		<![endif]-->
 		<header class="left block">
 			<div class="container">
-				<div class="left fifth logo">
-					<a href="index.php"><img src="http://placehold.it/300x125" /></a>
+				<div class="left quarter logo">
+					<a href="index.php"><img src="images/logo.png" /></a>
 				</div><!--/third-->
-				<div class="right four_fifths">
+				<div class="right three_quarters">
 					<div class="right menu_button icon">&#xf0c9;</div>
 					<nav class="right">
 						<a href="content.php">Content</a>

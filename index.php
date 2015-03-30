@@ -14,7 +14,8 @@
 	);
 	$slides = array(
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			/*'image' => 'http://placehold.it/1200x500',*/
+			'image' => 'images/banner_01.jpg',
 			'title' => 'First Title',
 			'subtitle' => 'A Very Long and Silly Subtitle That Should Break the Theme',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
@@ -22,7 +23,8 @@
 			'link' => 'Learn More'
 		),
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			/*'image' => 'http://placehold.it/1200x500',*/
+			'image' => 'images/banner_01.jpg',
 			'title' => 'Second Title',
 			'subtitle' => 'Another Subtitle',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
@@ -30,7 +32,8 @@
 			'link' => 'Read More'
 		),
 		array(
-			'image' => 'http://placehold.it/1200x500',
+			/*'image' => 'http://placehold.it/1200x500',*/
+			'image' => 'images/banner_01.jpg',
 			'title' => 'Third Title',
 			'subtitle' => 'Yet Another Subtitle',
 			'copy' => '<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>',
@@ -55,7 +58,7 @@
 							<h1 class="title"><?php echo $title; ?></h1>
 							<h2 class="subtitle"><?php echo $subtitle; ?></h2>
 							<?php echo $copy; ?>
-							<a href="<?php echo $link_url; ?>"><?php echo $link; ?></a>
+							<a class="button" href="<?php echo $link_url; ?>"><?php echo $link; ?></a>
 						</div><!--/container-->
 					</div><!--/content-->
 				</div><!--/text-->

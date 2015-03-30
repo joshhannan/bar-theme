@@ -4,4 +4,11 @@
 header { padding: 10px 0; position: fixed; z-index: 99999; background: rgba( 0, 0, 0, .6); }
 header.block {
 	.logo img { @include resp_image; }
+	.three_quarters { position: relative; padding: 0 50px 0 0; min-height: 125px; }
+	.three_quarters {
+		.menu_button { position: absolute; right: 0; text-align: center; height: 50px; width: 50px; color: $white; line-height: 50px; font-size: 25px; cursor: pointer; top: 50%; margin: -25px 0 0; }
+		nav { width: 100%; text-align: right; min-height: 125px; }
+		nav a { @include inline_block; vertical-align: middle; padding: 0 3%; color: $white; font: 18px/125px $osb; @include vendorize( transition, all .15s ease-in ); }
+		nav a:hover {  color: $light_black; text-shadow: 0px 0px 3px $white; }
+	}
 }
